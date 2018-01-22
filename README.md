@@ -1,5 +1,9 @@
 # kaggle_project_titanic
 
-To be updated but for now:
+This project is officially done. Here is a summary of what I have accomplished: 
+
+ 1. I have successfully implemented Logistic Regression and a Decision Tree on the Titanic Survivor Database
+ that is currently a part of the beginner Kaggle competition located here: https://www.kaggle.com/c/titanic. This is all located in the Main file. The other files are for reference as to how I tested and trained the models I used. 
  
-This is my machine learning dump, where all of what I know in data science using python is shown. More to come!
+ 2. I have also done a feature analysis on the data set. This is in FeatureAnalysis file. 
+ 
